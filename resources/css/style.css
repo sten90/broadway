@@ -1,1 +1,53 @@
-  
+body {
+  text-align: center;
+}
+
+.menu {
+  background-image: url(../images/the-flatiron-building.png)
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h4 {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+h2.designedny {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/the-flatiron-building.png)
+}
+
+p.footer {
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
